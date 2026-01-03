@@ -20,3 +20,6 @@ Interactive Power BI dashboard built to analyze sales performance, trends, and b
 
 ## Notes
 This project was created as part of my BI portfolio.
+
+## Dashboard Preview
+![Dashboard](dashboard_preview.png)
